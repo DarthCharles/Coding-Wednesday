@@ -1,2 +1,2 @@
-1 2 3 4 5 6 7 8 9 : 0-8
-1 2 3 4 5 6 7 8 9 10 : 0-1, 1-3
+A quick brown fox jumps over the lazy dog
+A slow yellow fox crawls under the proactive dog
