@@ -1,2 +1,5 @@
-A quick brown fox jumps over the lazy dog
-A slow yellow fox crawls under the proactive dog
+3.1415926
+1.41421356
+01-01-1970
+2.7182818284
+4 8 15 16 23 42
