@@ -1,2 +1,4 @@
-Hello,lloHe
-Basefont,tBasefon
+Hello world
+javaScript language
+a letter
+1st thing
